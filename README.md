@@ -16,11 +16,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-violet?style=for-the-badge&logo=instagram)](https://Instagram.com/ramdhan.ramadhian99)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ao_francisca)
 [![Youtube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube)](https://m.youtube.com/c/@AOFrancisca)
-[![Telegram](https://img.shields.io/badge/telegram-Contact-cyan?style=for-the-badge&logo=telegram)](https://api.telegram.com/send/?phone=%2B6282210614723&text&app_absent=0/send/?chat=%Haloo)
-#
-### Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranXpansion&show_icons=true&theme=radical)<br>
 #
 <img src="https://github.com/FranXpansion/FranXpansion/blob/main/FB_IMG_16045381662777177.jpg" width="640" title="Menu" alt="Menu">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranXpansion&layout=compact" alt="Top language">
